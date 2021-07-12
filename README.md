@@ -9,6 +9,8 @@ Possibility of expension this project in future.
 ## Screenshots
 ![screenshot](dist/assets/img/screenshot.png)
 
+---
+
 ![screenshot-2](src/assets/img/screenshot-2.png)
 
 ## Features
